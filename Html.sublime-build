@@ -1,0 +1,4 @@
+{
+    "shell_cmd": "xdg-open $file",
+    "selector": "text.html.basic"
+}

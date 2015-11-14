@@ -1,6 +1,11 @@
 # lbs
 Linux Build Systems for Sublime Text 3
 
-# Sublime Build Systems
-+Bash
-+Perl
+# Included Build Systems
+* Bash
+* Perl
+* Htlatex
+* Pdflatex
+
+# Installation
+Copy the lbs.sublime-package in the Packages Folder

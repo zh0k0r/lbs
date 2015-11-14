@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "htlatex \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "text.tex.latex"
+}
