@@ -1,11 +1,11 @@
-# lbs
-Linux Build Systems for Sublime Text 3
+# Linux Build Systems for Sublime Text 3 (lbs)
 
 # Included Build Systems
 * Bash
 * Perl
 * Htlatex
 * Pdflatex
+* Html
 
 # Installation
-Copy the lbs.sublime-package in the Packages Folder
+Copy the lbs.sublime-package in the Packages Folder (~/.config/sublime-text-3/Installed\ Packages)
