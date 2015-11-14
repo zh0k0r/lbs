@@ -1,0 +1,4 @@
+{
+    "selector": "source.perl",
+    "shell_cmd": "perl $file"
+}
